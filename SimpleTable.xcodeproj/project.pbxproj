@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1481CAB1299A195A00390511 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1481CAB0299A195A00390511 /* CustomTableViewCell.swift */; };
+		1481CAB3299A24CE00390511 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1481CAB2299A24CE00390511 /* SecondViewController.swift */; };
 		14D3E38B2996172D00628DD7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D3E38A2996172D00628DD7 /* AppDelegate.swift */; };
 		14D3E38D2996172D00628DD7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D3E38C2996172D00628DD7 /* SceneDelegate.swift */; };
 		14D3E38F2996172D00628DD7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D3E38E2996172D00628DD7 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1481CAB0299A195A00390511 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		1481CAB2299A24CE00390511 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		14D3E3872996172D00628DD7 /* SimpleTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14D3E38A2996172D00628DD7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14D3E38C2996172D00628DD7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				14D3E38A2996172D00628DD7 /* AppDelegate.swift */,
 				14D3E38C2996172D00628DD7 /* SceneDelegate.swift */,
 				14D3E38E2996172D00628DD7 /* ViewController.swift */,
+				1481CAB2299A24CE00390511 /* SecondViewController.swift */,
+				1481CAB0299A195A00390511 /* CustomTableViewCell.swift */,
 				14D3E3902996172D00628DD7 /* Main.storyboard */,
 				14D3E3932996172E00628DD7 /* Assets.xcassets */,
 				14D3E3952996172E00628DD7 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				14D3E38F2996172D00628DD7 /* ViewController.swift in Sources */,
 				14D3E38B2996172D00628DD7 /* AppDelegate.swift in Sources */,
+				1481CAB1299A195A00390511 /* CustomTableViewCell.swift in Sources */,
+				1481CAB3299A24CE00390511 /* SecondViewController.swift in Sources */,
 				14D3E38D2996172D00628DD7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
